@@ -1,0 +1,21 @@
+{
+  "short_name": "RadioCenter",
+  "name": "Radio Center Piatra Neamț",
+  "description": "Ascultă Radio Center și posturile tale preferate.",
+  "icons": [
+    {
+      "src": "https://ui-avatars.com/api/?name=RC&background=4c1d95&color=fff&size=192&bold=true",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://ui-avatars.com/api/?name=RC&background=4c1d95&color=fff&size=512&bold=true",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a"
+}
