@@ -1,1 +1,8 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "ro.radiocenter.app",
+    "sha256_cert_fingerprints": ["55:97:F0:B6:09:D3:1C:60:81:3F:BF:E3:9F:AB:4A:F7:DF:3B:5B:A8:61:07:5F:E1:87:26:47:92:F9:29:3C:15"]
+  }
+}]
