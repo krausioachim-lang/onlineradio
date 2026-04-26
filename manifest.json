@@ -14,7 +14,8 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "/onlineradio/",
+  "scope": "/onlineradio/",
   "display": "standalone",
   "theme_color": "#0f172a",
   "background_color": "#0f172a"
